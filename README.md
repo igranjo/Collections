@@ -12,4 +12,4 @@ O repositório é composto pelas pastas bin, lib e src. Dentro da pasta `src`, t
 
 ## Subpastas das interfaces
 
-A subpasta de cada interface contém três atividades, sendo a primeira de operações básicas, a segunda de ordenação e a última de pesquisa. Além disso, também contém o README do repositório original de onde os exercícios foram obtidos, que vem do bootcamp de Backend com Java do Santander.
+A subpasta de cada interface contém três atividades, sendo a primeira de operações básicas, a segunda de pesquisa e a última de ordenação. Além disso, também contém o README do repositório original de onde os exercícios foram obtidos, que vem do bootcamp de Backend com Java do Santander.
